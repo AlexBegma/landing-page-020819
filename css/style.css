@@ -69,7 +69,6 @@ body {
 	float: right;
 }
 
-/* .navigation, */
 .navigation__list {
 	display: flex;
 	flex-direction: row;
@@ -170,14 +169,12 @@ body {
 }
 
 .news .container {
-	/* padding: 0; */
 	width: 100%;
 }
 
 .news-article {
 	display: flex;
 	flex-direction: row;
-	/* 	flex-wrap: wrap; */
 	justify-content: space-between;
 	align-items: center;
 }
