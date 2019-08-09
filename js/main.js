@@ -6,5 +6,7 @@ $(function() {
 		// infinite: false,
 	});
 
-
+	$('.header__btn-menu').on('click', function(){
+		$('.navigation__list').slideToggle();
+	});
 });
